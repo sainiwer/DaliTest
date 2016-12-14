@@ -1,5 +1,7 @@
 package com.wenyu2;
 
+
+
 public class FutureTuition {
 
 	public static void main(String[] args) {
