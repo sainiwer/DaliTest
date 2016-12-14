@@ -1,5 +1,5 @@
 package com.wenyu2;
-/*输入两个数打印出最大的数*/
+/*输入两个数比较大小，最后打印出最大的数*/
 import java.util.Scanner;
 
 public class Test {
