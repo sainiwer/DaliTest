@@ -1,5 +1,8 @@
 package com.wenyu;
 
+/*
+ * 猜数字游戏，并根据输入提示输入的数据是偏大还是偏小。
+ */
 import java.util.Scanner;
 
 public class GuessNumber {
