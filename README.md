@@ -20,6 +20,13 @@ String s1 = "welcome";//s1==s3;
 String s2 = new String("welcome");//s2!=s1 && s2!=s3;
 String s3 = "welcome";//s3==s1;
 
+5.字符类Character
+java给每一个基本数据类型都提供了一个包装类。（Character/Boolean/Byte/Short/Integer/Long/Float/Double）
+所有这些类都在java.lang包下面，它们把基本类型数据当作对象处理。
+
+（1）用char值创建一个Character对象。
+Character character = new Character('a');
+ (2)charValue方法返回包装在Character对象中的字符值。
 
 
 
